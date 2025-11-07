@@ -7,6 +7,14 @@ Control your computer mouse using hand gestures with AI-powered computer vision.
 ![AI Virtual Mouse in Action](SS.png)
 *Screenshot showing the AI Virtual Mouse application in action with hand gesture recognition*
 
+## Video Demo 🎥
+
+https://github.com/Aditya-Kumar-Singh-007/AI_Virtual_Mouse/assets/VIDEO.mp4
+
+*Complete demonstration of all gesture controls and features in action*
+
+> **Note**: If the video doesn't play above, you can [download it directly](VIDEO.mp4) or view it in the repository files.
+
 ![AI Virtual Mouse Demo](SS.png)
 
 ## Features 🎮

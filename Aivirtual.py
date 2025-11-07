@@ -115,9 +115,15 @@ while True:
     cv2.putText(img, str(int(fps)), (40, 50), cv2.FONT_HERSHEY_PLAIN, 3,
                 (255, 0, 0), 3)
 
-    cv2.imshow("Img", img)
-    if cv2.waitKey(1) & 0xFF == ord('q'):
+    cv2.imshow("AI Virtual Mouse", img)
+    
+    # Exit on 'q' key press or window close
+    key = cv2.waitKey(1) & 0xFF
+    if key == ord('q') or key == 27:  # 'q' or ESC key
+        break
+    if cv2.getWindowProperty("AI Virtual Mouse", cv2.WND_PROP_VISIBLE) < 1:
         break
 
+print("\nAI Virtual Mouse Closed Successfully")
 cap.release()
 cv2.destroyAllWindows()
