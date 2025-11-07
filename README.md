@@ -9,13 +9,21 @@ Control your computer mouse using hand gestures with AI-powered computer vision.
 
 ## Video Demo 🎥
 
-https://github.com/Aditya-Kumar-Singh-007/AI_Virtual_Mouse/assets/VIDEO.mp4
+### Watch the AI Virtual Mouse in Action!
 
-*Complete demonstration of all gesture controls and features in action*
+[![AI Virtual Mouse Demo](https://img.shields.io/badge/▶️%20Play%20Video-Click%20Here-red?style=for-the-badge)](https://github.com/Aditya-Kumar-Singh-007/AI_Virtual_Mouse/blob/main/VIDEO.mp4)
 
-> **Note**: If the video doesn't play above, you can [download it directly](VIDEO.mp4) or view it in the repository files.
+*Click the button above to watch the complete demonstration*
 
-![AI Virtual Mouse Demo](SS.png)
+**What you'll see in the video:**
+- ✋ Hand gesture recognition in real-time
+- 🖱️ Cursor movement with index finger
+- 🖱️ Left and right click demonstrations
+- 🔊 Volume control with fist gestures
+- 💡 Brightness control with pinky finger
+- 📜 Scroll functionality with thumb
+
+> **Note**: GitHub doesn't support embedded video playback in README. Click the button above to view the video file directly.
 
 ## Features 🎮
 
@@ -31,7 +39,7 @@ https://github.com/Aditya-Kumar-Singh-007/AI_Virtual_Mouse/assets/VIDEO.mp4
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/AI_Virtual_Mouse.git
+git clone https://github.com/Aditya-Kumar-Singh-007/AI_Virtual_Mouse.git
 cd AI_Virtual_Mouse
 ```
 
@@ -47,7 +55,10 @@ Run the application:
 python Aivirtual.py
 ```
 
-Press 'Q' to quit the application.
+**Exit Options:**
+- Press 'Q' to quit
+- Press 'ESC' to exit
+- Click X button on window
 
 ## Requirements 📋
 
